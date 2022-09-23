@@ -109,6 +109,7 @@
     {"id":{"name":"rm_leaderboards","path":"rooms/rm_leaderboards/rm_leaderboards.yy",},"order":3,},
     {"id":{"name":"obj_corredor","path":"objects/obj_corredor/obj_corredor.yy",},"order":6,},
     {"id":{"name":"snd_aww_crowd","path":"sounds/snd_aww_crowd/snd_aww_crowd.yy",},"order":7,},
+    {"id":{"name":"obj_teste_GIT_PULL","path":"objects/obj_teste_GIT_PULL/obj_teste_GIT_PULL.yy",},"order":17,},
     {"id":{"name":"objLLPlayerManager","path":"objects/objLLPlayerManager/objLLPlayerManager.yy",},"order":2,},
     {"id":{"name":"spr_rondador","path":"sprites/spr_rondador/spr_rondador.yy",},"order":1,},
     {"id":{"name":"spr_teclas_setinhas","path":"sprites/spr_teclas_setinhas/spr_teclas_setinhas.yy",},"order":11,},
