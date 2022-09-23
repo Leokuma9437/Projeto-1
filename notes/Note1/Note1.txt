@@ -1,0 +1,17 @@
+- Criar a Tela Inicial - Vai ser a capa do jogo também, lembrar disso
+
+- Consertar o Descanso para funcionar
+
+- Criar o game Over
+
+- Colocar os sons - 1/2 FEITO
+
+- Criar a tela de High Score
+
+- Colocar o sistema de leaderboards - FEITO
+
+- Criar mais inimigos, ajeitar o inimigo rosa
+
+ - Criar o estadio - FEITO
+ 
+ - Os inimigos vermelhos estão muito pequenos???

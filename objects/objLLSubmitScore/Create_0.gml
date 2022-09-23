@@ -1,0 +1,1 @@
+simpleLeaderboardScore = 0;
